@@ -1,6 +1,7 @@
 # Site of Real Estate Agency
 
-[TODO. There will be project description]
+* Site of real estate agency ["Your house"](https://djapy.github.io/21_valid_markup/).
+* Inspection of the site layout on [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Fdjapy.github.io%2F21_valid_markup%2F).
 
 # Project Goals
 
